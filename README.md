@@ -13,31 +13,11 @@ BuddyMovies is an Android application built with Java and Android Studio, design
 - **Modularized and Clean Code**: Structured codebase using clean and modularized design principles for readability and maintainability.
 - **Design Patterns**: Implemented design patterns such as Singleton and Observer to improve code structure and scalability.
 
-## Directory Structure
-
-```
-java/
-  com.example.buddymovies/
-    Adaptors/
-      ContainerAdaptor.java
-      MovieAdaptor.java
-    Models/
-      ContainerModel.java
-      MovieModel.java
-    Utils/
-      MovieNetworkUtils.java
-DashboardActivity.java
-DashboardViewModel.java
-LoginActivity.java
-MovieDetailsActivity.java
-MovieDetailsViewModel.java
-```
-
 ## Technologies Used
 
 - **Glide**: Image loading and caching library for smooth image rendering.
 - **Serializable**: Interface used for object serialization.
-- **URL, org.json**: Used for handling network requests and parsing JSON data.
+- **URL, URi, json**: Used for handling network requests and parsing JSON data.
 - **HttpURLConnection**: Java API for performing HTTP requests.
 - **Concurrent Framework**: Utilized CompletableFuture, ExecutorService, and Executors for multithreading.
 - **Stream API**: Leveraged Stream API for efficient data manipulation.
@@ -60,4 +40,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Movie data provided by [[API Provider](https://moviesapi.ir/)].
+- Movie data provided by [[moviesapi.ir](https://moviesapi.ir/)].
