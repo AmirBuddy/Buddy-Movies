@@ -60,6 +60,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Special thanks to [name] for their invaluable contributions.
-- Hat tip to [name] for inspiration and guidance.
-- Movie data provided by [API Provider].
+- Movie data provided by [[API Provider](https://moviesapi.ir/)].
